@@ -1,6 +1,14 @@
 # tis-100
 [TIS-100](http://store.steampowered.com/app/370360/TIS100/) puzzle answers
 
+
+Table of contents
+=================
+
+  * [SELF-TEST DIAGNOSTIC](#self-test-diagnostic)
+  * [SIGNAL AMPLIFIER](#signal-amplifier)
+  * [DIFFERENTIAL CONVERTER](#differential-converter)
+
 ###### SELF-TEST DIAGNOSTIC
 ![SELF-TEST DIAGNOSTIC](https://github.com/vv-p/tis-100/blob/master/screenshots/20171116222742_1.jpg)
 
