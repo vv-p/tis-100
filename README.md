@@ -37,3 +37,6 @@
 ###### SEQUENCE REVERSER
 ![SEQUENCE REVERSER](https://github.com/vv-p/tis-100/blob/master/screenshots/20171116223126_1.jpg)
 
+###### SEQUENCE MULTIPLIER
+![SEQUENCE MULTIPLIER](https://github.com/vv-p/tis-100/blob/master/screenshots/20171117221831_1.jpg)
+
