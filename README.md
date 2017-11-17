@@ -8,6 +8,16 @@ Table of contents
   * [SELF-TEST DIAGNOSTIC](#self-test-diagnostic)
   * [SIGNAL AMPLIFIER](#signal-amplifier)
   * [DIFFERENTIAL CONVERTER](#differential-converter)
+  * [SIGNAL COMPARATOR](#signal-comparator)
+  * [SIGNAL MULTIPLEXER](#signal-multuplexer)
+  * [SEQUENCE GENERATOR](#sequence-generator)
+  * [SEQUENCE COUNTER](#sequence-counter)
+  * [SIGNAL EDGE DETECTOR](#signal-edge-detector)
+  * [INTERRUPT HUNDLER](#interrupt-hundler)
+  * [SIGNAL PATTERN DETECTOR](#signal-pattern-detector)
+  * [SEQUENCE PEAK DETECTOR](#sequence-peak-detector)
+  * [SEQUENCE REVERSER](#sequence-reverser)
+  * [SEQUENCE MULTIPLIER](#sequence-multiplier)
 
 ###### SELF-TEST DIAGNOSTIC
 ![SELF-TEST DIAGNOSTIC](https://github.com/vv-p/tis-100/blob/master/screenshots/20171116222742_1.jpg)
