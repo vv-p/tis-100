@@ -9,7 +9,7 @@ Table of contents
   * [SIGNAL AMPLIFIER](#signal-amplifier)
   * [DIFFERENTIAL CONVERTER](#differential-converter)
   * [SIGNAL COMPARATOR](#signal-comparator)
-  * [SIGNAL MULTIPLEXER](#signal-multuplexer)
+  * [SIGNAL MULTIPLEXER](#signal-multiplexer)
   * [SEQUENCE GENERATOR](#sequence-generator)
   * [SEQUENCE COUNTER](#sequence-counter)
   * [SIGNAL EDGE DETECTOR](#signal-edge-detector)
